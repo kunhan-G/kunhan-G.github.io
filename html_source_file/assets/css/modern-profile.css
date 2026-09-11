@@ -178,6 +178,26 @@ section a:hover {
   margin: 1.55rem 0 0;
 }
 
+.collab-box {
+  margin-top: 2rem;
+  padding: 1.15rem 1.25rem;
+  border: 1px solid #d8d4ce;
+  background: #fff;
+}
+
+.collab-box .collab-label {
+  margin: 0 0 0.35rem;
+  color: #0f766e;
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.collab-box p:last-child {
+  margin: 0;
+}
+
 .interest-pills span {
   display: inline-block;
   border: 1px solid #d8d4ce;
