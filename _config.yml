@@ -2,20 +2,14 @@
 title: Kunhan Gao
 position: Foundation Models & Agentic AI
 affiliation: Yale University
-affiliation_link: https://www.yale.edu/
 location: New Haven
-email: kunhan.gao (at) yale.edu
-email_mailto: kunhan.gao@yale.edu
+email: kunhan.gao@yale.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: Foundation Models & Agentic AI
 description: LLM agents, post-training, and evaluation. M.S. in Computer Science at Yale.
 canonical: https://kunhan-g.github.io/
-
-# Links 
-# If you don't need one of them, you may delete the corresponding line.
-github_link: https://github.com/kunhan-G
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 

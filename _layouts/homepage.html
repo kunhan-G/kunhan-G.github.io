@@ -61,23 +61,13 @@
         {% if site.affiliation %}
         <li>
           <i class="fa-solid fa-building-columns" aria-hidden="true"></i>
-          <a href="{{ site.affiliation_link }}" rel="noopener">{{ site.affiliation }}</a>
+          <span>{{ site.affiliation }}</span>
         </li>
         {% endif %}
         {% if site.email %}
         <li>
           <i class="fa-regular fa-envelope" aria-hidden="true"></i>
-          {% if site.email_mailto %}
-          <a href="mailto:{{ site.email_mailto }}">Email</a>
-          {% else %}
           <span>{{ site.email }}</span>
-          {% endif %}
-        </li>
-        {% endif %}
-        {% if site.github_link %}
-        <li>
-          <i class="fa-brands fa-github" aria-hidden="true"></i>
-          <a href="{{ site.github_link }}" rel="noopener">GitHub</a>
         </li>
         {% endif %}
         {% if site.google_scholar %}
