@@ -2,3 +2,14 @@
 ---
 
 @import "minimal-light";
+
+.site-nav,
+.site-nav a,
+a.site-monogram,
+a.site-monogram:hover,
+a.site-monogram:focus,
+a.site-monogram:active {
+  background: none !important;
+  background-color: transparent !important;
+  box-shadow: none !important;
+}
