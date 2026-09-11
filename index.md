@@ -4,10 +4,10 @@ layout: homepage
 
 ## About Me
 
-I am Kunhan Gao at the Department of Computer Science, Yale University.
+Hi! I am Kunhan Gao. I’m currently pursuing a two-year M.S. in Computer Science at Yale University, advised by Dr. Rex Ying. Before joining Yale, I received my B.S. in Data Science from City University of Hong Kong.
 
 ## Research Interests
 
-- Nonconvex optimization
-- Matrix sensing and low-rank recovery
-- Optimization landscapes
+- LLM agents
+- Post-training
+- Evaluation

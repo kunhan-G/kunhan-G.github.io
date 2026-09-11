@@ -1,13 +1,15 @@
 # Basic Information 
 title: Kunhan Gao
+position: Foundation Models & Agentic AI
 affiliation: Yale University
 affiliation_link: https://www.yale.edu/
+location: New Haven
 email: kunhan.gao (at) yale.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Kunhan Gao, Yale University, Computer Science
-description: Academic personal website of Kunhan Gao at Yale University.
+keywords: Foundation Models & Agentic AI
+description: LLM agents, post-training, and evaluation. M.S. in Computer Science at Yale.
 canonical: https://kunhan-g.github.io/
 
 # Links 
