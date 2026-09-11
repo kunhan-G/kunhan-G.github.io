@@ -19,6 +19,5 @@ My research interests broadly lie in foundation models and agentic AI, with a pa
 </div>
 
 <div class="collab-box">
-  <p class="collab-label">Happy to chat</p>
   <p>I’d be very glad to connect, discuss ideas, and explore opportunities to collaborate.</p>
 </div>
