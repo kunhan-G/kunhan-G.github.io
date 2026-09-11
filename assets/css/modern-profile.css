@@ -83,11 +83,14 @@ header h1 {
 }
 
 .image.avatar img {
-  width: 132px !important;
-  height: 132px;
+  width: 180px !important;
+  height: auto !important;
+  max-width: 100%;
+  aspect-ratio: 4 / 5;
   object-fit: cover;
+  object-position: center 20%;
   padding: 0 !important;
-  border-radius: 50% !important;
+  border-radius: 14px !important;
 }
 
 header ul.profile-meta {
@@ -288,8 +291,8 @@ footer {
   }
 
   .image.avatar img {
-    width: 112px !important;
-    height: 112px;
+    width: 148px !important;
+    height: auto !important;
     padding: 0 !important;
   }
 
