@@ -8,13 +8,12 @@ Hi! I am Kunhan Gao. I’m pursuing a two-year M.S. in Computer Science at Yale 
 
 ## Research Interests
 
-My research interests broadly lie in foundation models and agentic AI, with a particular focus on multimodal learning, agent reasoning and memory, and long-context modeling.
+My research interests broadly lie in foundation models and agentic AI, particularly multimodal learning and long-context modeling.
 
 <div class="interest-pills">
   <span>FOUNDATION MODELS</span>
   <span>AGENTIC AI</span>
   <span>MULTIMODAL LEARNING</span>
-  <span>AGENT REASONING & MEMORY</span>
   <span>LONG-CONTEXT MODELING</span>
 </div>
 
